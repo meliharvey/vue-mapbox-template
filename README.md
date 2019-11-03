@@ -1,24 +1,11 @@
-# geojson-api-viewer
-
-## Project setup
+# vue-mapbox-template
 ```
-npm install
+The is a starter template for a website that uses Vuejs and Mapbox-GL. It also includes some other useful features like module building and bundling using vue-cli, as well as linting on save. To continue development on this template please see the following links.
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Links
+See [Vuejs](https://www.vuejs.org/).
+See [VueMapbox](https://soal.github.io/vue-mapbox/).
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Screenshot
+![Screenshot of vue-mapbox-template](./screenshot.png)
